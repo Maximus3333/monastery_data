@@ -1,0 +1,455 @@
+Product_ID,Name,Width,Height,Depth,Weight (lbs),lbs,oz
+B-3,Papa Nicholas (Paper Bound),5 1/4,7 3/4,9/16,0.625,0,10
+B-4,Against False Union,5-1/2,8,5/8,0.60625,0,9.7
+B-9,Ladder of Divine Ascent--BOOK,6 1/8,9 3/4,7/8,1.4125,1,6.6
+B-10,Psalter,6-1/4,9-3/4,1,1.6875,1,11
+B-14,A Lenten Cookbook,5-1/2,8-1/2,5/8,0.80625,0,12.9
+B-15,Proseuchetarion,4-3/4,6-1/2,9/16,0.369,0,5.904
+B-16,Seraphim's Seraphim,5,7-3/4,9/16,0.5,0,8
+B-17,Selected Byzantine Hymns--Book,8 3/4,11,1/2,1.04,1,0.64
+B-18,Lamentations,5-3/4,9,1/4,0.31875,0,5.1
+B-20,Life of St Maximus,5-1/4,7-7/8,3/8,0.3375,0,5.4
+B-23,Ascetical Homilies 2nd Edition,6.125,9.75,1 11/16,2.54375,2,8.7
+B-24,Communion Prayers,7/16,4 7/8,3/8,0.15,0,2.4
+B-25,Prayer Book,5,6 3/4,1 1/16,0.9,0,14.4
+B-26,Pentecostarion,10 1/2,14 1/4,15 /16,3.5875,3,9.4
+B-29,Greek Gospel,3-11/16,5-1/4,7/8,0.4,0,6.4
+B-30,Elder Moses of Optina,5 1/4,7-3/4,1 3/16,1.1,1,1.6
+B-31,The Great Horologion,8 1/4,11 13/16,2 5/16,2.175,2,2.8
+B-32,Book for St Xenia Canticle/Canon,5-1/2,8-1/2,1/8,0.2125,0,3.4
+B-33,The Struggle,6,9,3/4,1.2375,1,3.8
+B-34,"One Lord, One Faith",8 13/16,11,3/8,0.86875,0,13.9
+B-35,Suppl Canon Quick-to-Hear,6,9,1/8,0.144,0,2.304
+B-36,Guide to Byz Iconography vol 2,6,9,3/8,0.719,0,11.504
+B-37,Holy Grt Mon Vatopaidi,10,13-1/2,3,13.925,13,14.8
+B-40,Daily Commemoration Cards,4,6,2 5/16,1.444,1,7.104
+B-42,10 Homilies on Beatitudes,5-1/2,8,1/4,0.294,0,4.704
+B-43,Megalynaria of the Gospels,5 1/2,8 1/2,1/4,0.3,0,4.8
+B-44,Supplicatory Canon to St George,6,9,1/8,0.131,0,2.096
+B-45,Menaion Set,14 1/2,11,10 3/4,43,43,0
+B-46,Elder Ieronymos of Aegina,5 1/4,7 3/4,13/16,0.9375,0,15
+B-47,Pocket Psalter,4 3/8,6-1/2,3/4,0.5,0,8
+B-49,St Symeon of Emesa,4 1/4,6 1/2,9/16,0.375,0,6
+B-50,Pocket Book of Hours,4 1/4,6 1/2,5/8,0.4125,0,6.6
+B-51,Holy Fire,6 7/8,9 3/4,3/4,1.6875,1,11
+B-52,Mystagogy of the Holy Spirit,7 1/4,10 1/4,3/4,1.4875,1,7.8
+B-53,Holy Week,10 1/2,14 1/4,5/8,2.275,2,4.4
+B-54,"Holy Week & Pascha, Bilingual",4 11/16,6 13/16,2 1/16,1.606,1,9.696
+B-56,Life of St. John of Kronstadt,5 1/4,7 3/4,7/8,0.919,0,14.704
+B-57,Octoëchos,14.375,10.5,1.25,5.15,5,2.4
+B-58,Great Horologion Vol 1,12.25,7.75,1.125,2.875,2,14
+B-59,Great Horologion Vol 2,12.25,7.75,1.1875,3.125,3,2
+L-4A,Gardenia - Pound,8,5.5,1.5,1.25,1,4
+L-4B,Gardenia -Half Pound,6.75,4,1.5,0.625,0,10
+L-4C,Gardenia - Ounce,3,2.25,3/4,0.08125,0,1.3
+L-5A,Gethsemane - Pound,8,5.5,1.5,1.25,1,4
+L-5B,Gethsemane - Half Pound,6.75,4,1.5,0.625,0,10
+L-5C,Gethsemane - Ounce,3,2.25,3/4,0.08125,0,1.3
+L-6A,Jasmine,8,5.5,1.5,1.25,1,4
+L-6B,Jasmine -- half pound,6.75,4,1.55,0.625,0,10
+L-6C,Jasmine -- ounce,3,2.25,0.75,0.08125,0,1.3
+L-7A,Lilac,8,5.5,1.5,1.25,1,4
+L-7B,Lilac -- half pound,6.75,4,1.55,0.625,0,10
+L-7C,Lilac -- ounce,3,2.25,0.75,0.08125,0,1.3
+L-8A,Magnolia,8,5.5,1.5,1.25,1,4
+L-8B,Magnolia -- half pound,6.75,4,1.55,0.625,0,10
+L-8C,Magnolia -- ounce,3,2.25,0.75,0.08125,0,1.3
+L-9A,Rose,8,5.5,1.5,1.25,1,4
+L-9B,Rose -- half pound,6.75,4,1.55,0.625,0,10
+L-9C,Rose -- ounce,3,2.25,0.75,0.08125,0,1.3
+L-10A,Rose Petal,8,5.5,1.5,1.25,1,4
+L-10B,Rose Petal -- half pound,6.75,4,1.55,0.625,0,10
+L-10C,Rose Petal -- ounce,3,2.25,0.75,0.08125,0,1.3
+L-11A,Spruce Island,8,5.5,1.5,1.25,1,4
+L-11B,Spruce Island -- half pound,6.75,4,1.55,0.625,0,10
+L-11C,Spruce Island -- ounce,3,2.25,0.75,0.08125,0,1.3
+L-12A,Cedar of Lebanon,8,5.5,1.5,1.25,1,4
+L-12B,Cedar of Lebanon -- half pound,6.75,4,1.55,0.625,0,10
+L-12C,Cedar of Lebanon -- ounce,3,2.25,0.75,0.08125,0,1.3
+L-13A,Acacia,8,5.5,1.5,1.25,1,4
+L-13B,Acacia -- half pound,6.75,4,1.55,0.625,0,10
+L-13C,Acacia -- ounce,3,2.25,0.75,0.08125,0,1.3
+L-14A,Honeysuckle,8,5.5,1.5,1.25,1,4
+L-14B,Honeysuckle -- half pound,6.75,4,1.55,0.625,0,10
+L-14C,Honeysuckle -- ounce,3,2.25,0.75,0.08125,0,1.3
+L-15A,Lily of the Valley,8,5.5,1.5,1.25,1,4
+L-15B,Lily of the Valley -- half pound,6.75,4,1.55,0.625,0,10
+L-15C,Lily of the Valley -- ounce,3,2.25,0.75,0.08125,0,1.3
+L-16A,Neroli,8,5.5,1.5,1.25,1,4
+L-16B,Neroli -- half pound,6.75,4,1.55,0.625,0,10
+L-16C,Neroli -- ounce,3,2.25,0.75,0.08125,0,1.3
+L-17A,Regal Jasmine,8,5.5,1.5,1.25,1,4
+L-17B,Regal Jasmine -- half pound,6.75,4,1.55,0.625,0,10
+L-17C,Regal Jasmine -- ounce,3,2.25,0.75,0.08125,0,1.3
+L-18A,Royal Carnation,8,5.5,1.5,1.25,1,4
+L-18B,Royal Carnation -- half pound,6.75,4,1.55,0.625,0,10
+L-18C,Royal Carnation -- ounce,3,2.25,0.75,0.08125,0,1.3
+L-19A,Sweet Marjoram,8,5.5,1.5,1.25,1,4
+L-19B,Sweet Marjoram -- half pound,6.75,4,1.55,0.625,0,10
+L-19C,Sweet Marjoram -- ounce,3,2.25,0.75,0.08125,0,1.3
+L-20A,Byzantium,8,5.5,1.5,1.25,1,4
+L-20B,Byzantium -- half pound,6.75,4,1.55,0.625,0,10
+L-20C,Byzantium -- ounce,3,2.25,0.75,0.08125,0,1.3
+L-21A,Damascus Rose,8,5.5,1.5,1.25,1,4
+L-21B,Damascus Rose -- half pound,6.75,4,1.55,0.625,0,10
+L-21C,Damascus Rose -- ounce,3,2.25,0.75,0.08125,0,1.3
+L-22A,Jerusalem,8,5.5,1.5,1.25,1,4
+L-22B,Jerusalem -- half pound,6.75,4,1.55,0.625,0,10
+L-22C,Jerusalem -- ounce,3,2.25,0.75,0.08125,0,1.3
+L-23A,Mt Athos Rose,8,5.5,1.5,1.25,1,4
+L-23B,Mt Athos Rose -- half pound,6.75,4,1.55,0.625,0,10
+L-23C,Mt Athos Rose -- ounce,3,2.25,0.75,0.08125,0,1.3
+L-24A,Rose Geranium,8,5.5,1.5,1.25,1,4
+L-24B,Rose Geranium -- half pound,6.75,4,1.55,0.625,0,10
+L-24C,Rose Geranium -- ounce,3,2.25,0.75,0.08125,0,1.3
+L-25A,Lily,8,5.5,1.5,1.25,1,4
+L-25B,Lily -- half pound,6.75,4,1.55,0.625,0,10
+L-25C,Lily -- ounce,3,2.25,0.75,0.08125,0,1.3
+L-26A,Mount Horeb,8,5.5,1.5,1.25,1,4
+L-26B,Mount Horeb -- half pound,6.75,4,1.55,0.625,0,10
+L-26C,Mount Horeb -- ounce,3,2.25,0.75,0.08125,0,1.3
+L-27A,Bulgarian Rose,8,5.5,1.5,1.25,1,4
+L-27B,Bulgarian Rose -- half pound,6.75,4,1.55,0.625,0,10
+L-27C,Bulgarian Rose -- ounce,3,2.25,0.75,0.08125,0,1.3
+L-28A,Imperial Jasmine,8,5.5,1.5,1.25,1,4
+L-28B,Imperial Jasmine -- half pound,6.75,4,1.55,0.625,0,10
+L-28C,Imperial Jasmine -- ounce,3,2.25,0.75,0.08125,0,1.3
+L-29A,Myra,8,5.5,1.5,1.25,1,4
+L-29B,Myra -- half pound,6.75,4,1.55,0.625,0,10
+L-29C,Myra -- ounce,3,2.25,0.75,0.08125,0,1.3
+L-30A,Spikenard,8,5.5,1.5,1.25,1,4
+L-30B,Spikenard -- half pound,6.75,4,1.55,0.625,0,10
+L-30C,Spikenard -- ounce,3,2.25,0.75,0.08125,0,1.3
+L-31A,Anatolian Rose,8,5.5,1.5,1.25,1,4
+L-31B,Anatolian Rose -- half pound,6.75,4,1.55,0.625,0,10
+L-31C,Anatolian Rose -- ounce,3,2.25,0.75,0.08125,0,1.3
+L-32A,Imperial Rose,8,5.5,1.5,1.25,1,4
+L-32B,Imperial Rose -- half pound,6.75,4,1.55,0.625,0,10
+L-32C,Imperial Rose -- ounce,3,2.25,0.75,0.08125,0,1.3
+L-33A,Royal Gardenia,8,5.5,1.5,1.25,1,4
+L-33B,Royal Gardenia -- half pound,6.75,4,1.55,0.625,0,10
+L-33C,Royal Gardenia -- ounce,3,2.25,0.75,0.08125,0,1.3
+L-34A,Tabor,8,5.5,1.5,1.25,1,4
+L-34B,Tabor -- half pound,6.75,4,1.55,0.625,0,10
+L-34C,Tabor -- ounce,3,2.25,0.75,0.08125,0,1.3
+L-35A,Tsaritsa,8,5.5,1.5,1.25,1,4
+L-35B,Tsaritsa -- half pound,6.75,4,1.55,0.625,0,10
+L-35C,Tsaritsa -- ounce,3,2.25,0.75,0.08125,0,1.3
+L-36A,Royal Violet,8,5.5,1.5,1.25,1,4
+L-36B,Royal Violet -- half pound,6.75,4,1.55,0.625,0,10
+L-36C,Royal Violet -- ounce,3,2.25,0.75,0.08125,0,1.3
+L-37A,Sinai,8,5.5,1.5,1.25,1,4
+L-37B,Sinai -- half pound,6.75,4,1.55,0.625,0,10
+L-37C,Sinai -- ounce,3,2.25,0.75,0.08125,0,1.3
+L-38A,Sweet Basil,8,5.5,1.5,1.25,1,4
+L-38B,Sweet Basil -- half pound,6.75,4,1.55,0.625,0,10
+L-38C,Sweet Basil -- ounce,3,2.25,0.75,0.08125,0,1.3
+L-39A,Nazareth,8,5.5,1.5,1.25,1,4
+L-39B,Nazareth -- half pound,6.75,4,1.55,0.625,0,10
+L-39C,Nazareth -- ounce,3,2.25,0.75,0.08125,0,1.3
+L-40A,Ethiopian Frankincense,8,5.5,1.5,1.25,1,4
+L-40B,Ethiopian Frankincense -- half pound,6.75,4,1.55,0.625,0,10
+L-40C,Ethiopian Frankincense -- ounce,3,2.25,0.75,0.08125,0,1.3
+L-41A,Somalia Frankincense,8,5.5,1.5,1.25,1,4
+L-41B,Somalia Frankincense -- half pound,6.75,4,1.55,0.625,0,10
+L-41C,Somalia Frankincense -- ounce,3,2.25,0.75,0.08125,0,1.3
+L-42A,Eden Frankincense,8,5.5,1.5,1.25,1,4
+L-42B,Eden Frankincense -- half pound,6.75,4,1.55,0.625,0,10
+L-42C,Eden Frankincense -- ounce,3,2.25,0.75,0.08125,0,1.3
+L-43A,Unfading Rose,8,5.5,1.5,1.25,1,4
+L-43B,Unfading Rose -- half pound,6.75,4,1.55,0.625,0,10
+L-43C,Unfading Rose -- ounce,3,2.25,0.75,0.08125,0,1.3
+L-44A,Ochrid,8,5.5,1.5,1.25,1,4
+L-44B,Ochrid -- half pound,6.75,4,1.55,0.625,0,10
+L-44C,Ochrid - Ounce,3,2.25,.75,0.08125,0,1.3
+D-4M,Christ Lifegiver,9 3/4,14 3/4,3/4,2.781,2,12.496
+D-4P,Christ Lifegiver -- print,9-1/2,14,0.0128,0.005375,0,0.086
+D-10M,Resurrection,4,5-1/12,0.5,0.375,0,6
+D-10P,Resurrection -- print,4,5-1/2,0.0128,0.005375,0,0.086
+D-14M,Directress,9-3/4,14 3/4,0.75,2.781,2,12.496
+D-14P,Directress -- print,9-1/2,14,0.0128,0.0625,0,1
+D-17M,Theotokos--Joy (Large),11,13,1.5,3,3,0
+D-17P,Theotokos--Joy -- print,11,13,0.0128,0.0625,0,1
+D-23M,Portaitissa,3 1/2,6 3/8,0.5,0.3,0,4.8
+D-23P,Portaitissa -- print,3-1/4,5-1/2,0.0128,0.005375,0,0.086
+D-27M,Protection -- hd plas,2-5/8,3-1/4,.025,0.01,0,0.16
+D-27P,Protection -- print,2-5/8,3-1/4,0.0128,0.0025,0,0.04
+D-28M,Hospitality of Abraham,4 1/4,5-1/8,0.5,0.294,0,4.704
+D-28P,Hospitality of Abraham -- print,4,5-1/8,0.0128,0.005375,0,0.086
+D-29M,Ss Constantine & Helen,6,9 1/8,0.5,0.675,0,10.8
+D-29P,Ss Constantine & Helen -- print,6,9,0.0128,0.005375,0,0.086
+D-30M,St George,5-11/16,7,0.5,0.5375,0,8.6
+D-30P,St George -- print,5-1/2,7,0.0128,0.005375,0,0.086
+D-31M,St George -- hd plas,2-1/4,2-7/8,.025,0.01,0,0.16
+D-31P,St George -- print,2-1/4,2-7/8,0.0128,0.0025,0,0.04
+D-32M,Guardian Angel,3-3/4,5 5/8,0.5,0.2875,0,4.6
+D-32P,Guardian Angel -- print,3-1/2,5-1/2,0.0128,0.005375,0,0.086
+D-35M,St John Kronstadt -- hd plas,2-1/2,3-3/8,.025,0.01,0,0.16
+D-35P,St John Kronstadt -- print,2-1/2,3-3/8,0.0128,0.0025,0,0.04
+D-37M,St John Russian -- hd plas,2-1/8,3-1/4,0.025,0.01,0,0.16
+D-37P,St John Russian -- print,2-1/8,3-1/4,0.0128,0.0025,0,0.04
+D-39M,St Menas -- hd plas,2-1/4,3-3/8,.025,0.01,0,0.16
+D-39P,St Menas -- print,2-1/4,3-3/8,0.0128,0.0025,0,0.04
+D-41M,Nativity,3-11/16,4 7/8,0.5,0.256,0,4.096
+D-41P,Nativity -- print,3-1/2,4-3/4,0.0128,0.005375,0,0.086
+D-42M,St Nectarios -- hd plas,2-1/4,3-3/8,.025,0.01,0,0.16
+D-42P,St Nectarios -- print,2-1/4,3-3/8,0.0128,0.0025,0,0.04
+D-45M,St Nicholas -- hd plas,2-1/8,3-1/4,.025,0.01,0,0.16
+D-45P,St Nicholas -- print,2-1/8,3-1/4,0.0128,0.0025,0,0.04
+D-48M,St Peter Aleut -- hd plas,2-3/8,3-1/2,.025,0.01,0,0.16
+D-48P,St Peter Aleut -- print,2-3/8,3-1/2,0.0128,0.0025,0,0.04
+D-49M,Ss Peter & Paul -- hd plas,2-1/8,3-1/4,.025,0.01,0,0.16
+D-49P,Ss Peter & Paul -- print,2-1/8,3-1/4,0.0128,0.0025,0,0.04
+D-52M,St Spyridon -- hd plas,2-1/4,3-3/8,.025,0.01,0,0.16
+D-52P,St Spyridon -- print,2-1/4,3-3/8,0.0128,0.0025,0,0.04
+D-54M,Blessed Xenia -- hd plas,2-1/8,3-1/4,.025,0.01,0,0.16
+D-54P,Blessed Xenia -- print,2-1/8,3-1/4,0.0128,0.0025,0,0.04
+D-60M,St Panteleimon -- hd plas,2-1/2,3-3/4,.025,0.01,0,0.16
+D-60P,St Panteleimon -- print,2-1/2,3-3/4,0.0128,0.0025,0,0.04
+D-61M,Guardian Angel -- hd plas,2-1/2,3-1/4,.025,0.01,0,0.16
+D-61P,Guardian Angel -- print,2-1/2,3-1/4,0.0128,0.0025,0,0.04
+D-63M,Christ Lifegiver -- hd plas,2-1/2,3-1/2,.025,0.01,0,0.16
+D-63P,Christ Lifegiver -- print,2-1/2,3-1/2,0.0128,0.0025,0,0.04
+D-64M,Directress -- hd plas,2-1/2,3-1/2,.025,0.01,0,0.16
+D-64P,Directress -- print,2-1/2,3-1/2,0.0128,0.0025,0,0.04
+D-65M,St Vladimir -- hd plas,2-1/4,3-1/4,.025,0.01,0,0.16
+D-65P,St Vladimir -- print,2-1/4,3-1/4,0.0128,0.0025,0,0.04
+D-66M,Christ the Lightgiver,4,6,0.5,0.4375,0,7
+D-66P,Christ the Lightgiver -- print,4,6,0.0128,0.005375,0,0.086
+D-67M,Quick to Hear,4,6,0.5,0.4375,0,7
+D-67P,Quick to Hear -- print,4,6,0.0128,0.005375,0,0.086
+D-68M,St Anna -- hd plas,2,3-1/2,.025,0.01,0,0.16
+D-68P,St Anna -- print,2,3-1/2,0.0128,0.0025,0,0.04
+D-69M,St Xenia -- hd plas,2-1/2,3-1/2,.025,0.01,0,0.16
+D-69P,St Xenia -- print,2-1/2,3-1/2,0.0128,0.0025,0,0.04
+D-70M,St John the Forerunner -- hd plas,2-1/2,3-1/2,.025,0.01,0,0.16
+D-70P,St John the Forerunner -- print,2-1/2,3-1/2,0.0128,0.005375,0,0.086
+D-71M,St Seraphim of Sarov -- hd plas,2-1/2,2-7/8,.025,0.01,0,0.16
+D-71P,St Seraphim of Sarov -- print,2-1/2,2-7/8,0.0128,0.0025,0,0.04
+D-74M,Nativity,4 1/16,5 7/16,0.5,0.306,0,4.896
+D-76M,Baptism -- hd plas,2-3/4,3-1/2,.025,0.01,0,0.16
+D-76P,Baptism -- print,2-3/4,3-1/2,0.0128,0.005375,0,0.086
+D-79M,St Sophia -- hd plas,2-3/4,4,.025,0.01,0,0.16
+D-79P,St Sophia -- print,2-3/4,4,0.0128,0.005375,0,0.086
+D-80M,Flight into Egypt,3 13/16,4,0.5,0.231,0,3.696
+D-80P,Flight into Egypt -- print,4,4-1/8,0.0128,0.005375,0,0.086
+D-83M,Archangels,4-1/8,5-11/16,0.5,0.31875,0,5.1
+D-83P,Archangels -- print,4-1/8,5-1/2,0.0128,0.005375,0,0.086
+D-84M,Guardian Angel with Girl -- hd plas,2-1/4,3-1/2,.025,0.01,0,0.16
+D-84P,Guardian Angel with Girl -- print,2-1/4,3-1/2,0.0128,0.0025,0,0.04
+D-85M,Arch Michael of the Apocalypse -- hd plas,2-1/4,3,.025,0.01,0,0.16
+D-85P,Arch Michael Apoc — print,2-1/4,3,0.0128,0.0025,0,0.04
+D-86M,St Luke -- hd plas,2-1/4,3-3/8,.025,0.01,0,0.16
+D-86P,St Luke -- print,2-1/4,3-3/8,0.0128,0.000625,0,0.01
+D-87M,St Demetrius -- hd plas,2-3/8,3-1/2,.025,0.01,0,0.16
+D-87P,St Demetrius -- print,2-3/8,3-1/2,0.0128,0.0025,0,0.04
+D-88M,St Philaret -- hd plas,2-1/2,3-1/2,.025,0.01,0,0.16
+D-88P,St Philaret -- print,2-1/2,3-1/2,0.0128,0.0125,0,0.2
+D-90M,St George on a Horse,5-1/4,6,0.5,0.75,0,12
+D-90P,St George on a Horse,5-1/4,6,0.0128,0.0625,0,1
+D-91M,St John the Wonderworker -- hd plas,2-1/2,3-1/4,.025,0.01,0,0.16
+D-91P,St John the Wonderworker -- print,2-1/2,3-1/4,0.0128,0.01875,0,0.3
+D-93M,St Matthew--hd plastic,2-1/4,3-1/2,.025,0.01,0,0.16
+D-93P,St Matthew -- print,2-1/4,3-1/2,0.0128,0.03125,0,0.5
+H-87,Zorba--Vespers & Matins,5 9/16,4 7/8,3/8,0.244,0,3.904
+H-88,Zorba--Divine Liturgy,5 9/16,4 7/8,3/8,0.244,0,3.904
+H-89,Zorba--Christmas Eve Hymns,5 9/16,4 7/8,3/8,0.244,0,3.904
+H-90,Zorba--Holy Week Hymns,5 9/16,4 7/8,3/8,0.244,0,3.904
+H-91,Zorba--Hymns of the Virgin,5 9/16,4 7/8,3/8,0.244,0,3.904
+H-92,Zorba--Akathist Hymn--part 1,5 9/16,4 7/8,3/8,0.244,0,3.904
+H-93,Zorba--Akathist Hymn--part 2,5 9/16,4 7/8,3/8,0.244,0,3.904
+H-94,Zorba--David's Psalms,5 9/16,4 7/8,3/8,0.244,0,3.904
+H-95,Zorba--Hymns of Jesus Christ,5 9/16,4 7/8,3/8,0.256,0,4.096
+H-96,Zorba--Resurrection Hymns,5 9/16,4 7/8,3/8,0.269,0,4.304
+H-103,Chants from Valaam,5 9/16,4 7/8,3/8,0.194,0,3.104
+H-105,Sirin--Spiritual Chants of the Russian People,5 9/16,4 7/8,3/8,0.244,0,3.904
+H-108,"Peres, Marcel--Ambrosian Chant (Latin)",5 1/2,4 7/8,1/4,0.156,0,2.496
+H-111,Day of Resurrection,5 9/16,4 15/16,7/16,0.219,0,3.504
+H-123,Vatopaidi--Christmas Hyns,5 11/16,6 1/2,9/16,0.556,0,8.896
+H-124,Vatopaidi--Epiphany Hymns,5 11/16,6 1/2,9/16,0.6,0,9.6
+H-126,Macris--Resurrection Hymns--2 CD set,5 9/16,4 7/8,3/8,0.2625,0,4.2
+H-133,Makris Divine Liturgy,5 9/16,4 7/8,3/8,0.2125,0,3.4
+H-145,Holy Land Chants--Romanian Chants,5 9/16,4 7/8,3/8,0.219,0,3.504
+H-150,Zorba--O Pure Virgin (Agni Parthene),5 9/16,4 7/8,3/8,0.25,0,4
+H-170,"Peres, Marcel--Old Roman Chant--Paschal Vespers",5 1/2,4 15/16,1/4,0.175,0,2.8
+H-175,Zorba--Paraclesis,5 9/16,4 7/8,3/8,0.275,0,4.4
+H-177,Gridinko--Russian Easter,5 9/16,4 7/8,3/8,0.256,0,4.096
+H-179,Vatopaidi--Holy Monday,5 5/8,5,7/8,0.644,0,10.304
+H-189,Holy Nativity Convent--In Bethlehem,5 9/16,4 7/8,3/8,0.1625,0,2.6
+H-190,St Xenia of Petersburg (CD only),5 9/16,4 7/8,3/8,0.1875,0,3
+H-191,Katina--The Good Shepherd,5 9/16,4 7/8,3/8,0.219,0,3.504
+H-192,Katina--The Christmas Story,5 9/16,4 7/8,3/8,0.2,0,3.2
+H-197,Ormylia--That Which Came to Pass,5 1/8,4 7/8,1/16,0.075,0,1.2
+H-198,Ormylia--Matins for St Mary Magdalene,5 9/16,4 7/8,3/8,0.206,0,3.296
+H-199,Ormylia--Vespers for St Mary Magdalene,5 9/16,4 7/8,3/8,0.206,0,3.296
+H-200,Simonopetra--David's Psalms,5 9/16,4 7/8,3/8,0.2,0,3.2
+H-201,Gridinko--Early Russian Chant,5 9/16,4 7/8,3/8,0.21875,0,3.5
+H-204,Holy Land Chants--Dormition,5 9/16,4 7/8,3/8,0.225,0,3.6
+H-205,Anchiskhati Choir--Georgian Chants,5 9/16,4 7/8,3/8,0.2375,0,3.8
+H-211,Holy Land Chants--Orthodox Collection,5 9/16,4 7/8,3/8,0.21875,0,3.5
+H-212,Holy Land Chants--Pilgrimage to Holy Cross,5 9/16,4 7/8,3/8,0.21875,0,3.5
+H-214,Byzantine Music New World Vespers 2,5 9/16,4 7/8,3/8,0.2125,0,3.4
+H-215,Byzantine Music New World Vespers 3,5 9/16,4 7/8,3/8,0.2125,0,3.4
+H-216,Byzantine Music New World Vespers 4,5 9/16,4 7/8,3/8,0.2125,0,3.4
+H-220,Christ is Risen,5 9/16,4 7/8,3/8,0.19375,0,3.1
+H-222,What Earthly Joy,5 9/16,4 7/8,3/8,0.20625,0,3.3
+H-227,Macris -- 10 Years,5 9/16,4 7/8,3/8,0.2375,0,3.8
+H-228,Vassillicos-Divine Liturgy of St John Chrysostom,5 9/16,4 7/8,3/8,0.24375,0,3.9
+H-230,Simonopetra--Divine Liturgy,5 9/16,4 7/8,3/8,0.2,0,3.2
+H-231,Simonopetra--Matins,5 9/16,4 7/8,3/8,0.2,0,3.2
+H-232,Simonopetra -- Vespers,5 9/16,4 7/8,3/8,0.2125,0,3.4
+H-233,Simonopetra --Supplicatory Canon,5 9/16,4 7/8,3/8,0.19375,0,3.1
+H-234,Simonopetra--Service of St Simon,5 9/16,4 7/8,3/8,0.2125,0,3.4
+H-235,"Theotokarion, Volume I",5 9/16,4 7/8,3/8,0.25,0,4
+H-236,"Theotokarion, Volume 2",5 9/16,4 7/8,3/8,0.2375,0,3.8
+H-237,The Holy Week,5 9/16,4 7/8,3/8,0.24375,0,3.9
+H-238,Vigil of St Anthony,5 9/16,4 7/8,3/8,0.21875,0,3.5
+H-239,Liturgy of St John Chrysostom,5 1/2,4 7/8,5/16,0.1875,0,3
+H-240,Antiphons of Great Friday,5 9/16,4 7/8,3/8,0.20625,0,3.3
+H-244,Ancient Slavonic Chants,5 9/16,4 7/8,3/8,0.20625,0,3.3
+H-247,The Lord's Holidays,5 9/16,4 7/8,3/8,0.20625,0,3.3
+H-249,Vatopaidi-Paraclesis to Our Lady Paramythia,5 9/16,4 7/8,9/16,0.325,0,5.2
+H-250,Vatopaidi-Paraclesis to Our Lady Pantanassa,5 9/16,4 7/8,9/16,0.325,0,5.2
+H-251,Order of Service for St Parasceve,5 9/16,4 7/8,3/8,0.25,0,4
+H-253,Cappella Romana,5 9/16,4 7/8,3/8,0.225,0,3.6
+H-254,Officium Sancti Severi,5 9/16,4 7/8,3/8,0.25,0,4
+H-255,Agiopolitis Choir: Boast of Constantinople,5 9/16,4 7/8,3/8,0.25,0,4
+H-256,Makris--Hymns of the Holy Archangels,5 9/16,4 7/8,3/8,0.1875,0,3
+H-257,Agiopolitis Ecclesiastical Choir,5 9/16,4 7/8,3/8,0.1875,0,3
+H-258,Mt Lebanon Choir,5 9/16,4 7/8,3/8,0.18125,0,2.9
+H-260,Byzantine Prosomia,5 9/16,4 7/8,3/8,0.2125,0,3.4
+H-261,The Divine Liturgy in English,5 9/16,4 7/8,3/8,0.275,0,4.4
+H-263,O Give Thanks Unto the Lord,5 9/16,4 7/8,3/8,0.23125,0,3.7
+J-1,Charcoal,8,5.75,3.5,2.5,2,8
+J-3,Ruby Red 9 oz Glass,3 1/2,3 1/2,4 1/16,0.8375,0,13.4
+J-4,Ruby Red 6 oz Glass,3,3,3 1/2,0.5875,0,9.4
+J-8,Float,1.875,1.875,1.5,0.005,0,0.08
+J-9,Wick Pack,3,2,1/2,0.005,0,0.08
+J-10,Plastic Prosphora Seal,5 3/8,5 3/8,1 5/16,0.3,0,4.8
+J-17,Hand Liturgical Fan,6 7/8,6 7/8,0,0.03,0,0.48
+J-18,Sponge for Antimension,6,4.625,1/8,0.03125,0,0.5
+J-19,Prayer Rope-100 knot,0,0,0,0.04375,0,0.7
+J-20,Liturgical Lance,1 3/4,9,1/2,0.1625,0,2.6
+J-21,Icon Lamp--Proto Christian,5 7/16,5 7/16,1.5,0.575,0,9.2
+J-22,Icon Lamp-Early,5 1/8,5 1/8,3,1.019,1,0.304
+J-23,Icon Lamp-Byzantine,5.5,5.5,5 1/4,0.65625,0,10.5
+J-26,Imperial Rose Oil,2 3/4,1,1,0.09375,0,1.5
+J-30,Gardenia Oil,2 3/4,1,1,0.09375,0,1.5
+J-31,Old Rose Oil,2 3/4,1,1,0.09375,0,1.5
+J-32,Rose Geranium Oil,2 3/4,1,1,0.09375,0,1.5
+J-33,Royal Violet Oil,2 3/4,1,1,0.09375,0,1.5
+J-34,White Rose Oil,2 3/4,1,1,0.09375,0,1.5
+J-36,Sunshine Cloth,7 3/4,5,1/16,0.03125,0,0.5
+J-37,Plastic Incense Box,3,2 7/16,11/16,0.03125,0,0.5
+J-39,Roll of Charcoal,5 1/4,1 5/8,1 5/8,0.225,0,3.6
+J-44,Cobalt Blue 9 oz Glass,3 1/2,3 1/2,4 1/16,0.7875,0,12.6
+J-47,Ruby Red 12 oz Glass,5 3/8,3 5/8,3 5/8,1.23,1,3.68
+J-49,Prayer Rope - 50 knot,0,0,0,0.01875,0,0.3
+J-50,Communion spoon-Sterling,7.8125,1.25,0.5625,0.10625,0,1.7
+J-51,Communion spoon-gld,7.8125,1.25,0.5625,0.10625,0,1.7
+J-52,"Censer, wooden handle",7.375,3.75,3,0.5625,0,9
+J-53,Cobalt Blue 6 oz Glass,3,3,3 1/2,0.4875,0,7.8
+J-57,Stoneware Censer blue-gray,3 1/8,4 1/4,3 1/8,0.55,0,8.8
+J-63,Spikenard Oil,2 5/16,1 3/16,13/16,0.10625,0,1.7
+J-65,Ruby Red Thistle Glass,4,3 1/4,3 1/4,0.81875,0,13.1
+J-66,Cobalt Blue Thistle Glass,4,3 1/4,3 1/4,0.7125,0,11.4
+J-68,Sweet Basil Oil,2 3/4,1,1,0.09375,0,1.5
+J-70,Olive Wood Spoon,8.25,1.875,1 1/2,0.05,0,0.8
+J-72,Cross Pin,1,5/8,3/8,0.00625,0,0.1
+J-73,Olive Wood Cross,5 1/8,3 9/16,9/16,0.1125,0,1.8
+M-26A,Small Blessing Cross,10.0625,4.125,.15625,1,1,0
+M-26E,Small Blessing Cross Silver,10.0625,4.125,.15625,1.03125,1,0.5
+M-40A,Russian Cross,1.959183673,0.367346939,3.469387755,0.1,0,1.6
+M-40E,Russian Cross -- Sterling Silver,1.959183673,0.367346939,3.469387755,0.11875,0,1.9
+M-50A,Moscow Cross,2.25,0.326530612,3.875,0.125,0,2
+M-51A,Kiev Cross,2.163265306,0.326530612,3.428571429,0.1,0,1.6
+M-51E,Kiev Cross -- Sterling Silver,2.163265306,0.326530612,3.428571429,0.11875,0,1.9
+M-52A,Nicholas II Cross,2.408163265,0.326530612,4.653061224,0.11875,0,1.9
+M-52E,Nicholas II Cross -- Sterling Silver,2.408163265,0.326530612,4.653061224,,0,0
+M-58A,Archangel's Cross,1.510204082,0.326530612,3.020408163,0.08125,0,1.3
+M-58E,Archangel's Cross  -- Sterling Silver,1.510204082,0.326530612,3.020408163,0.09,0,1.44
+M-57A,Yaroslavl Cross,2.979591837,0.408163265,5.795918367,0.3,0,4.8
+M-57E,Yaroslavl Cross  -- Sterling Silver,2.979591837,0.408163265,5.795918367,0.373,0,5.968
+M-203E,Justinian Cross--Large,1.387755102,0.244897959,1.632653061,0.279773987,0,4.476383784
+M-203J,Justinian Cross--Large 14k,1.387755102,0.244897959,1.632653061,0.340117395,0,5.441878326
+M-204E,St Xenia Silver Medal,0.734693878,0.244897959,1.346938776,0.192001755,0,3.072028087
+M-204J,St Xenia 14k Gold Medal,0.734693878,0.244897959,1.346938776,0.2468594,0,3.949750398
+M-207E,Smolensk Silver Cross,0.775510204,0.244897959,1.346938776,0.09874376,0,1.579900159
+M-207J,Smolensk 14k Cross,0.775510204,0.244897959,1.346938776,0.131658347,0,2.106533545
+M-208E,Novgorod Silver Cross,0.653061224,0.204081633,1.551020408,0.087772231,0,1.404355697
+M-208J,Novgorod 14k Cross,0.653061224,0.204081633,1.551020408,0.087772231,0,1.404355697
+M-209E,"Optina Cross, silver",1.387755102,0.244897959,2.367346939,0.586976795,0,9.391628723
+M-211E,"Armenian Cross, silver",0.571428571,0.244897959,0.979591837,0.060343409,0,0.965494542
+M-211J,"Armenian Cross, 14k",0.571428571,0.244897959,0.979591837,0.076800702,0,1.228811235
+M-217E,Round Chain for Priest's Cross,0,0,0,0.01,0,0.16
+M-222E,"Infants Cross, silver",0.326530612,0.163265306,0.653061224,0.032914587,0,0.526633386
+M-222J,"Infants Cross, 14k",0.326530612,0.163265306,0.653061224,0.032914587,0,0.526633386
+M-223E,Cherson Silver Cross,0.571428571,0.204081633,0.816326531,0.043886116,0,0.702177848
+M-223J,Cherson Small 14k Cross,0.571428571,0.204081633,0.816326531,0.054857644,0,0.877722311
+M-225E,"Pochaev Cross, silver",0.816326531,0.204081633,1.265306122,0.09874376,0,1.579900159
+M-225J,"Pochaev Cross, 14k",0.816326531,0.204081633,1.265306122,0.131658347,0,2.106533545
+M-226E,Tver Silver Cross,0.816326531,0.204081633,1.673469388,0.142629875,0,2.282078008
+M-226J,Tver 14k Cross,0.816326531,0.204081633,1.673469388,0.181030227,0,2.896483625
+M-227E,Rostov Silver Cross,1.224489796,0.285714286,1.510204082,0.2468594,0,3.949750398
+M-227J,Rostov 14k Cross,1.224489796,0.285714286,1.510204082,0.312688573,0,5.00301717
+M-228E,Valaam Silver Cross,0.857142857,0.367346939,1.673469388,0.318174338,0,5.090789402
+M-228J,Valaam 14k Cross,0.857142857,0.367346939,1.673469388,0.411432333,0,6.58291733
+M-232E,St Seraphim Silver Medal,0.408163265,0.244897959,0.816326531,0.060343409,0,0.965494542
+M-232J,St Seraphim 14k Medal,0.408163265,0.244897959,0.816326531,0.093257996,0,1.492127928
+M-236E,"Danielov Cross, silver",0.734693878,0.244897959,1.346938776,0.115201053,0,1.843216852
+M-236J,"Danielov Cross, 14k",0.734693878,0.244897959,1.346938776,0.153601404,0,2.45762247
+M-237E,"Kazan Medal Filigree, silver",0.734693878,0.244897959,0.775510204,0.274288222,0,4.388611553
+M-237J,Kazan 14k Mother of God--Filigree,0.734693878,0.244897959,0.775510204,0.076800702,0,1.228811235
+M-243E,"Golgotha Russian Baptismal Cross, silver",1.102040816,0.244897959,1.836734694,0.153601404,0,2.45762247
+M-243J,"Golgotha Russian Baptismal Cross, 14k",1.102040816,0.244897959,1.836734694,0.186515991,0,2.984255856
+M-244E,St Sergius Silver Cross,0.734693878,0.204081633,1.551020408,0.175544462,0,2.808711394
+M-244J,St Sergius 14k Cross,0.734693878,0.204081633,1.551020408,0.230402107,0,3.686433705
+M-245E,"Georgian Cross, silver",0.693877551,0.204081633,1.142857143,0.109715289,0,1.755444621
+M-245J,"Georgian Cross, 14k",0.693877551,0.204081633,1.142857143,0.131658347,0,2.106533545
+M-246E,"Vologda Cross, silver",0.93877551,0.204081633,1.387755102,0.175544462,0,2.808711394
+M-246J,"Vologda Cross, 14k",0.93877551,0.204081633,1.387755102,0.19748752,0,3.159800318
+M-248E,"Byzantine Reliquary Cross, silver",3.125,2.25,0.31,0.16,0,2.56
+M-249E,"Christ the Almighty, silver",0.775510204,0.244897959,1.265306122,0.087772231,0,1.404355697
+M-249J,"Christ the Almighty, 14k",0.775510204,0.244897959,1.265306122,0.373031982,0,5.968511712
+M-250E,"Light & Life Cross, silver",0.897959184,0.244897959,1.591836735,0.137144111,0,2.194305777
+M-250J,"Light and Life Cross, 14k",0.897959184,0.244897959,1.591836735,0.175544462,0,2.808711394
+M-252E,Celtic Silver Cross,0.734693878,0.244897959,1.428571429,0.087772231,0,1.404355697
+M-252J,Celtic 14k Cross,0.734693878,0.244897959,1.428571429,0.120686818,0,1.930989083
+M-401E,Mt. Athos Byzantine Baptismal Cross -- Sterling Silver,0.857142857,0.244897959,1.183673469,0.126172582,0,2.018761314
+M-401J,Mt. Athos Byzantine Baptismal Cross -- 14 kt Gold,0.857142857,0.244897959,1.183673469,0.153601404,0,2.45762247
+M-450E,"20"" Silver Curb Chain",1,1,.25,0.0125,0,0.2
+M-450J,"20"" 14k Gold Curb Chain",1,1,.25,0.001,0,0.016
+M-451E,"20"" Silver Box Chain",1,1,.25,0.0125,0,0.2
+M-451J,"20"" 14k Gold Box Chain",1,1,.25,0.00625,0,0.1
+M-470E,"24"" Silver Curb Chain",1,1,.25,0.01875,0,0.3
+M-470J,"24"" 14k Gold Curb Chain",1,1,.25,0.00625,0,0.1
+M-471E,"24"" Silver Box Chain",1,1,.25,0.01875,0,0.3
+M-471J,"24"" 14k Gold Box Chain",1,1,.25,0.00625,0,0.1
+M-475E,"20"" Silver Round Chain",1,1,.25,0.01875,0,0.3
+M-475J,"20"" 14k Round Chain",1,1,.25,0.01,0,0.16
+M-477E,"24"" Silver Round Chain",1,1,.25,0.01875,0,0.3
+M-477J,"24"" 14k Round Chain",1,1,.25,0.01,0,0.16
+M-495E,"20"" Double Link Silver Chain",1,1,.25,0.0125,0,0.2
+M-496E,"24"" Double Link Silver Chain",1,1,.25,0.01875,0,0.3
+M-640E,Justinian Silver Cross--Medium,0.79,0.24,0.98,0.087772231,0,1.404355697
+M-640J,Justinian 14k Cross--Medium,0.79,0.24,0.98,0.104229524,0,1.66767239
+M-641E,Justinian Silver Cross--Small,0.669291339,0.236220472,0.62992126,0.032914587,0,0.526633386
+M-641J,Justinian 14k Cross--Small,0.669291339,0.236220472,0.62992126,0.043886116,0,0.702177848
+M-647E,Russian Reliquary Silver Cross,0.787401575,0.31496063,1.181102362,0.219430578,0,3.510889242
+M-651E,Kazanskaya,0.708661417,0.275590551,0.748031496,0.001,0,0.016
+M-653E,Mother of God of the Sign Silver,0.275590551,0.669291339,0.94488189,0.126172582,0,2.018761314
+M-653J,Mother of God of the Sign 14k,0.275590551,0.669291339,0.94488189,0.164572933,0,2.633166932
+M-654E,St George Silver Medal,0.787401575,0.236220472,1.023622047,0.2468594,0,3.949750398
+M-655E,St Nicholas Silver Medal,0.472440945,0.275590551,0.826771654,0.093257996,0,1.492127928
+M-656E,St Panteleimon Silver Medal,0.669291339,0.275590551,0.826771654,0.09874376,0,1.579900159
+M-659E,Blachernae Reliquary Cross Silver,2.75,2.126,.4375,0.14375,0,2.3
+M-662E,Protection Silver Cross,0.62992126,0.196850394,0.984251969,0.153601404,0,2.45762247
+M-663E,St Ann / Protection Medal,0.590551181,0.196850394,0.826771654,0.115201053,0,1.843216852
+R-20M,St Nicholas,4.5,6.125,0.5,0.375,0,6
+R-22M,Vladimirskaya,4,6,0.5,0.5,0,8
+R-24M,St Demetrios on a Horse,4.5,6.125,0.5,0.43125,0,6.9
+R-26M,Sinai Christ (large),13,24-3/4,0.75,6.4375,6,7
+R-27M,Wedding at Cana,4-3/4,5-1/8,0.5,0.375,0,6
+R-28M,Sinai Christ (medium),8,14 1/8,0.75,2.156,2,2.496
+R-29M,Ss Cyprian & Justina,6-3/4,9-1/4,0.5,1.4375,1,7
+R-30M,Guardian Angel w Girl,3 7/8,5 9/16,0.5,0.30625,0,4.9

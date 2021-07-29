@@ -1,0 +1,29 @@
+RRA - Regional rate box a
+RRB - Regional rate box B
+MFRB - Medium flat rate box
+LFRB - Large flat rate box
+FRPE - Flat rate padded envelope
+SFRB - Small Flat rate box
+Th - Thick envelope
+Lg Env - Large flat envelope
+FRE - Flat rate envelope
+Fdx S Box
+
+Net volume on X axis (volume of item 1 + volume of item 2 etc.)
+Gross volume on Y axis (volume of package)
+
+#This code is going to remove the leading zero(s) if any.
+match = re.match("/^([ABDGHJLMR])-?0{1,2}(\d{1,3})([A-Z]?)/", line.["item ID"])
+
+#if it's an A series icon take away the "M" or "P" at the end.  
+#For anything else: leave whatever letter comes after the numbers.  You have to write code to 
+#add the size code and an "M" if it is any size other than 8 x 10
+if match.group(0)[0] == “A”:
+    sku = "A-" + match.group(2)
+else:
+    sku = match.group(1) + “-“ + match.group(2) + str(match.group(3))
+
+Some of the prices are ambiguous - assume the verison of the icon which is more commono
+
+
+use colemark instead of querty keyboard layout!!!
